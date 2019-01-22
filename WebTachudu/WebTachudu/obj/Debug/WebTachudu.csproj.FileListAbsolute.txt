@@ -1,0 +1,116 @@
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\WebTachudu.dll.config
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\WebTachudu.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\WebTachudu.pdb
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\csc.exe
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\csc.exe.config
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\csc.rsp
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\csi.exe
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\csi.exe.config
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\csi.rsp
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.AppContext.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Collections.Immutable.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Console.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Diagnostics.Process.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.IO.Compression.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.IO.FileSystem.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.IO.Pipes.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Security.AccessControl.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Security.Claims.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Threading.Thread.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.ValueTuple.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Xml.XPath.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\vbc.exe
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\vbc.exe.config
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\vbc.rsp
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\VBCSCompiler.exe
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\roslyn\VBCSCompiler.exe.config
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project CSS&HTML\WebTachudu\WebTachudu\obj\Debug\WebTachudu.csprojAssemblyReference.cache
+D:\Project CSS&HTML\WebTachudu\WebTachudu\obj\Debug\WebTachudu.csproj.CoreCompileInputs.cache
+D:\Project CSS&HTML\WebTachudu\WebTachudu\obj\Debug\WebTachudu.csproj.CopyComplete
+D:\Project CSS&HTML\WebTachudu\WebTachudu\obj\Debug\WebTachudu.dll
+D:\Project CSS&HTML\WebTachudu\WebTachudu\obj\Debug\WebTachudu.pdb
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\WebTachudu.dll.config
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\WebTachudu.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\WebTachudu.pdb
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\csc.exe
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\csc.exe.config
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\csc.rsp
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\csi.exe
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\csi.exe.config
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\csi.rsp
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.AppContext.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Collections.Immutable.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Console.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Diagnostics.Process.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.IO.Compression.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.IO.FileSystem.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.IO.Pipes.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Security.AccessControl.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Security.Claims.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Threading.Thread.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.ValueTuple.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Xml.XPath.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\vbc.exe
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\vbc.exe.config
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\vbc.rsp
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\VBCSCompiler.exe
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\roslyn\VBCSCompiler.exe.config
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\obj\Debug\WebTachudu.csprojAssemblyReference.cache
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\obj\Debug\WebTachudu.csproj.CoreCompileInputs.cache
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\obj\Debug\WebTachudu.csproj.CopyComplete
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\obj\Debug\WebTachudu.dll
+D:\Project CSS&HTML\Project 01\WebTachudu\WebTachudu\obj\Debug\WebTachudu.pdb
